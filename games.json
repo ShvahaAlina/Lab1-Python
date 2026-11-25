@@ -1,0 +1,42 @@
+[
+    {
+        "title": "Resident Evil",
+        "description": "famous survival horror franchise by Capcom about dangerous viral outbreaks and biological weapons created by the shady Umbrella Corporation",
+        "characters": [
+            {
+                "name": "Leon S. Kennedy",
+                "description": "A former Raccoon City rookie cop turned U.S. government agent and widely considered the most popular character in the series."
+            }
+        ],
+        "rating": null,
+        "hours": 0
+    },
+    {
+        "title": "ASPHALT",
+        "description": "races",
+        "characters": [],
+        "rating": null,
+        "hours": 0
+    },
+    {
+        "title": "Wuthering Waves",
+        "description": "",
+        "rating": null,
+        "hours": 0,
+        "characters": []
+    },
+    {
+        "title": "Doom",
+        "description": "шутер",
+        "rating": 8.5,
+        "hours": 12.0,
+        "characters": []
+    },
+    {
+        "title": "Minecraft",
+        "description": "пісочниця про будівництво та виживання в блоковому світі",
+        "rating": null,
+        "hours": 0,
+        "characters": []
+    }
+]
